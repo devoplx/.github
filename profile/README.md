@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./profile/github-header-image.png)
 
 <p align="center"> 
   Visitor count<br>
