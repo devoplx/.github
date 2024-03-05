@@ -6,8 +6,6 @@
 </p>
 
 ## About Devoplx
-
-Welcome to Devoplx, a technology company that provides open source packages backed by a community and our developers, free and paid templates of saas sites, frontend and backend. We also offer tons of Saas products we host at cheap rates for anyone website or company. You can contact us at support@devoplx.com for any issues or questions you may have.
-
-
-
+--------------------
+COMING SOON
+--------------------
